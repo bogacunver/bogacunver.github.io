@@ -19,3 +19,7 @@ ul.links {
     padding: 0px;
     list-style-type: none;
 }
+
+.col.col-xs-4 {
+    text-align: center;
+}
